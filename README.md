@@ -7,3 +7,5 @@ https://github.com/ragulrajendran007/databyte-task1/blob/main/databyte.html
 css:
 https://github.com/ragulrajendran007/databyte-task1/blob/main/databyte.css
 
+jscript:
+https://github.com/ragulrajendran007/databyte-task1/blob/main/databyte.js
